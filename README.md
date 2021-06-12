@@ -2,8 +2,8 @@
 
 Link the picture of the md document
 
-- \!\[avatar\]\(/user/desktop/doge.png\)
-- \!\[avatar\]\(http://baidu.com/pic/doge.png\)
+- \!\[avatar\](/user/desktop/doge.png)
+- \!\[avatar\](http://baidu.com/pic/doge.png)
 
 Convert to
 
